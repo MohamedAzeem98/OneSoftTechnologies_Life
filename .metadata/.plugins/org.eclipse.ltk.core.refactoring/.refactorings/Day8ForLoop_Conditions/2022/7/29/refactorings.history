@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;forLoop_Conditions&apos; to &apos;forLoop1&apos;&#x0D;&#x0A;- Original project: &apos;Day8ForLoop_Conditions&apos;&#x0D;&#x0A;- Original element: &apos;Day8ForLoop_Conditions/src/forLoop_Conditions&apos;&#x0D;&#x0A;- Renamed element: &apos;Day8ForLoop_Conditions/src/forLoop1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings&#x0D;&#x0A;- Rename subpackages of the package" description="Rename package &apos;forLoop_Conditions&apos;" flags="589830" hierarchical="true" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;forLoop_Conditions" name="forLoop1" qualified="false" references="true" stamp="1657685262628" textual="false" version="1.0"/>
+</session>

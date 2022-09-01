@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;datatypes.SpecifyingComputerModel.java&apos; to &apos;ComputerDetails.java&apos;&#x0D;&#x0A;- Original project: &apos;Day1&apos;&#x0D;&#x0A;- Original element: &apos;datatypes.SpecifyingComputerModel.java&apos;&#x0D;&#x0A;- Renamed element: &apos;datatypes.ComputerDetails.java&apos;" description="Rename compilation unit &apos;SpecifyingComputerModel.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;datatypes{SpecifyingComputerModel.java" name="ComputerDetails.java" references="false" stamp="1656916781619" version="1.0"/>
+</session>

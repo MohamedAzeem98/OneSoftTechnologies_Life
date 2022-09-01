@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;forLoopWithConditions.ToGetAPrimeNumber&apos; to &apos;CheckPalindromeOrNot&apos;&#x0D;&#x0A;- Original project: &apos;ForLoop4&apos;&#x0D;&#x0A;- Original element: &apos;forLoopWithConditions.ToGetAPrimeNumber&apos;&#x0D;&#x0A;- Renamed element: &apos;forLoopWithConditions.CheckPalindromeOrNot&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ToGetAPrimeNumber&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;forLoopWithConditions{ToGetAPrimeNumber.java[ToGetAPrimeNumber" matchStrategy="1" name="CheckPalindromeOrNot" qualified="false" references="true" similarDeclarations="false" stamp="1657952666603" textual="false" version="1.0"/>
+</session>

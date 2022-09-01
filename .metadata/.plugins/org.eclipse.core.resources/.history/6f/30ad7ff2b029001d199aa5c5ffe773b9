@@ -1,0 +1,28 @@
+
+
+public class SampleProgramFor {
+
+	
+	static Logger log=Logger.getLogger(SampleProgramFor.class);
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
+
+}

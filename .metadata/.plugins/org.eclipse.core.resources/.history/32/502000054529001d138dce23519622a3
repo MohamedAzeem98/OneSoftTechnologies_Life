@@ -1,0 +1,36 @@
+package FourthProject_Model1.FourthProject_model;
+import java.io.File;
+
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args ) throws Exception
+    {
+     XSSFWorkbook book=new XSSFWorkbook();
+     XSSFSheet sheet=book.createSheet("MY ProgramDetails");
+     XSSFRow row;
+     
+     Student.add(new Student{"12","Arun","12"});
+     
+     
+      
+    }
+}
+class Student{
+	int id;
+	String name;
+	String std;
+	
+	Student(){
+		this.id=id;
+		this.name=name;
+		this.std=std;
+	}
+	
+}

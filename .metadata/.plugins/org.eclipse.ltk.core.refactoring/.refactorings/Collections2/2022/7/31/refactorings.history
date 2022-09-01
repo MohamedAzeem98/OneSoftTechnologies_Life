@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;hashMap.AadharNumber.java&apos; to &apos;AadharCard.java&apos;&#x0D;&#x0A;- Original project: &apos;Collections2&apos;&#x0D;&#x0A;- Original element: &apos;hashMap.AadharNumber.java&apos;&#x0D;&#x0A;- Renamed element: &apos;hashMap.AadharCard.java&apos;" description="Rename compilation unit &apos;AadharNumber.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;hashMap{AadharNumber.java" name="AadharCard.java" references="false" stamp="1659157286526" version="1.0"/>
+</session>

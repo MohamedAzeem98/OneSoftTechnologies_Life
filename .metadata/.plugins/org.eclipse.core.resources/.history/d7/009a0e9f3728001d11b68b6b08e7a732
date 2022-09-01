@@ -1,0 +1,16 @@
+package com.sample.programs.sample;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        XSSFWorkbook wb = new XSSFWorkbook();
+        
+    }
+}

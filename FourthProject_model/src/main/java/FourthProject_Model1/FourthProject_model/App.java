@@ -27,9 +27,17 @@ public class App
      for(Student s:stud) {
     	 row=sheet.createRow(ro++);
     	 int co=0;
-    	 Cell cell=row.createCell(co++);
-    	 cell.setCellValue((Student)cell);
-       }
+    	 
+    	 //for (Student v :stud) {
+    		 Cell cell=row.createCell(co++);
+        	 cell.setCellValue(s.name);
+        	 cell.setCellValue(s.std);
+        	 cell.setCellValue(s.id);
+    		 
+             
+         //}
+     	 
+   }
      FileOutputStream fs=new FileOutputStream("C:\\Users\\AZEEM\\Documents\\PracticeBook.xlsx");
      book.write(fs);
      fs.close();

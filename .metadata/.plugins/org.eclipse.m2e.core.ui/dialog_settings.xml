@@ -2,6 +2,14 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\AZEEM\Documents\workspace-spring-tool-suite-4-4.15.2.RELEASE"/>
+			<item value="C:\Users\AZEEM\Downloads\demo123456"/>
+			<item value="C:\Users\AZEEM\Downloads\demo (3)"/>
+			<item value="C:\Users\AZEEM\Downloads\saturday (1)"/>
+			<item value="C:\Users\AZEEM\Downloads\Today\Today\src\main\java\com\SampleProgram\Today\Users.java"/>
+			<item value="C:\Users\AZEEM\eclipse-workspace\sat\src\main\java\Saturday\sat\App.java"/>
+			<item value="C:\Users\AZEEM\eclipse-workspace\ExampleForProgram\src\main\java\com\friend\ExampleForProgram\App.java"/>
+			<item value="C:\Users\AZEEM\eclipse-workspace\LoggerProject\src\SampleProgramFor.java"/>
 			<item value="C:\Users\AZEEM\eclipse-workspace\AtmMachining.java\src\Automated\Machining.java"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -26,19 +34,18 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
-			<item value="FourthProject_Model1.FourthProject_model"/>
-			<item value="Third_Project.ProjectForTask1"/>
-			<item value="Second_Project.Project_newOne"/>
+			<item value="Shrinked.Swagfro"/>
+			<item value="one.rent"/>
+			<item value="one.two"/>
 		</list>
 		<list key="groupId">
-			<item value="FourthProject_Model1"/>
-			<item value="Third_Project"/>
-			<item value="Second_Project"/>
+			<item value="Shrinked"/>
+			<item value="one"/>
 		</list>
 		<list key="artifactId">
-			<item value="FourthProject_model"/>
-			<item value="ProjectForTask1"/>
-			<item value="Project_newOne"/>
+			<item value="Swagfro"/>
+			<item value="rent"/>
+			<item value="two"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

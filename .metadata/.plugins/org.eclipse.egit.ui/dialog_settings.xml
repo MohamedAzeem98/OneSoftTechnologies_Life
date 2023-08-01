@@ -1,8 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="2"/>
+	<item key="GitSelectRepositoryPage.lastRepository" value="C:\Users\AZEEM\git\restTemplate\.git"/>
 	<list key="EGit.KnownHosts">
 		<item value="git.eclipse.org"/>
-		<item value="github.com"/>
 		<item value="bitbucket.org"/>
+		<item value="github.com"/>
 	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/MohamedAzeem333/A1.git"/>
+		<item value="https://github.com/MohamedAzeem333/restTemplate.git"/>
+		<item value="https://www.gitHub.com/C:\Users\AZEEM\git\FridayFire"/>
+		<item value="https://gitHub.com/C:\Users\AZEEM\git\FridayFire"/>
+		<item value="https://github.com/MohamedAzeem333/FridayFire.git"/>
+		<item value="https://github.com/MohamedAzeem333/Day3.git"/>
+		<item value="https://github.com/MohamedAzeem333/Mohamed.git"/>
+		<item value="https://github.com/MohamedAzeem333/PleasePush.git"/>
+		<item value="https://git@github.com/MohamedAzeem333/PleasePush.git"/>
+		<item value="https://github.com/https://github.com/MohamedAzeem333/PleasePush.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.dialogs.CheckoutDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="539"/>
+		<item key="DIALOG_Y_ORIGIN" value="116"/>
+		<item key="DIALOG_WIDTH" value="538"/>
+		<item key="DIALOG_HEIGHT" value="484"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="654"/>
+		<item key="DIALOG_Y_ORIGIN" value="311"/>
+	</section>
 </section>
